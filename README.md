@@ -24,6 +24,9 @@
 # Client ID: 150322459579-bgldudsea3rfokitrcphot3mbrupiov7.apps.googleusercontent.com
 # Client Secret: C74lVpQQa1oID8luyEIXsAO8
 > nodemon index.js
+#AIzaSyDlFU-ezVPkmfIByJNiHdL1WGZtxjS6Qpc
+#508014933089-2ra1m3rbhr81fj4auodd38ct5rnoms7a.apps.googleusercontent.com
+#TVyxEXgOhbhZ91g1RyUV8qeE
 ```
 
 ## Part 4: Store all users to Database (e.g. PostgreSQL)
